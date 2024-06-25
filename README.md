@@ -12,7 +12,7 @@ Implement an AI-controlled paddle (either the left or the right will do) such th
 
 ## Changes made
 
-<u><li><h3>main.lua:</h3></li></u>
+### main.lua:
 Lines: 247 - 267, commented out the original code, and added a following functionality for the paddle.
 
 ## License
